@@ -1,0 +1,12 @@
+$ cat > new.xml
+<?xml version="1.0"?>
+<aboutme>
+<favoritefilm>Bridge to Terabithia</favoritefilm>
+<favoritaserial>The crown</favoriteserial>
+<firstname>Karyna</firstname>
+<secondname>Krasnova</secondname>
+<favoritefood>potato pancakes</favoritefood>
+<favoriteseason>spring</favoriteseason>
+<countrytovisit>Germany</countrytovisit>
+<desiredsalary>20000</desiredsalary>
+</aboutme>
